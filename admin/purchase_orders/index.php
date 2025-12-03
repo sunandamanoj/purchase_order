@@ -5,7 +5,7 @@
 <?php endif;?>
 <div class="card card-outline card-primary">
 	<div class="card-header">
-		<h3 class="card-title">List of Purchase Orders & Quotation</h3>
+		<h3 class="card-title">List of Purchase Purchase Orders & Quotation</h3>
 		<div class="card-tools">
 			<a href="?page=purchase_orders/manage_quotation" class="btn btn-flat btn-primary"><span class="fas fa-plus"></span>  Create New Quotation</a>
 
